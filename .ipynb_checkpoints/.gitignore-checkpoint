@@ -6,3 +6,8 @@ labs/edX/ML0101EN/ratings.csv
 labs/edX/ML0101EN/README.txt
 labs/edX/ML0101EN/tags.csv
 .ipynb_checkpoints/
+labs/DL0110EN/img/
+labs/DL0110EN/index.csv
+labs/DL0110EN/index.csv.1
+labs/DL0110EN/._img
+*.pt
