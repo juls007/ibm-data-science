@@ -13,3 +13,4 @@ labs/DL0110EN/._img
 *.pt
 labs/DL0110EN/data
 .virtual_documents/
+__pycache__
