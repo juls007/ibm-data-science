@@ -11,3 +11,9 @@ labs/DL0110EN/index.csv
 labs/DL0110EN/index.csv.1
 labs/DL0110EN/._img
 *.pt
+labs/DL0110EN/data
+.virtual_documents/
+__pycache__
+data/test_data_keras/
+data/train_data_keras/
+data/validation_data_keras/

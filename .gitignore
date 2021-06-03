@@ -14,3 +14,6 @@ labs/DL0110EN/._img
 labs/DL0110EN/data
 .virtual_documents/
 __pycache__
+data/test_data_keras/
+data/train_data_keras/
+data/validation_data_keras/
